@@ -1,8 +1,8 @@
 package com.elodie.homeshop;
 
 public class Customer {
-    private String fullname;
-    private String address;
+    protected String fullname;
+    protected String address;
 
     public Customer(String fullname, String address){
         this.fullname=fullname;
