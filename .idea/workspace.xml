@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="215a3b8b-b453-421c-8f99-d07b3b402f81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/elodie/homeshop/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/elodie/homeshop/Bill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/elodie/homeshop/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/elodie/homeshop/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/elodie/homeshop/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/elodie/homeshop/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/elodie/homeshop/Fridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/elodie/homeshop/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,56 +14,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="404">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Fridge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/com/elodie/homeshop/ProductTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Customer.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Television.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,10 +69,22 @@
             <state relative-caret-position="374">
               <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding>
+                <element signature="e#367#368#0" expanded="true" />
                 <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
                 <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
                 <element signature="e#568#569#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -103,12 +109,14 @@
         <option value="$PROJECT_DIR$/src/com/elodie/homeshop/Bill.java" />
         <option value="$PROJECT_DIR$/src/com/elodie/homeshop/Customer.java" />
         <option value="$PROJECT_DIR$/src/com/elodie/homeshop/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/elodie/homeshop/Fridge.java" />
+        <option value="$PROJECT_DIR$/src/com/elodie/homeshop/Television.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
+    <option name="x" value="670" />
+    <option name="width" value="703" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectView">
@@ -117,6 +125,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,7 +148,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,7 +155,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544007164095" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544022040616" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
   </component>
@@ -197,10 +205,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <frame x="670" y="0" width="703" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25745684" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2659409" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -229,13 +237,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Product.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/com/elodie/homeshop/ProductTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -248,8 +249,11 @@
         <state relative-caret-position="374">
           <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding>
+            <element signature="e#367#368#0" expanded="true" />
             <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
             <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
             <element signature="e#568#569#0" expanded="true" />
           </folding>
         </state>
@@ -257,32 +261,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="404">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Fridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/elodie/homeshop/Television.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
           </folding>
         </state>
       </provider>
