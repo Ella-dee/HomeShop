@@ -29,4 +29,11 @@ public class Bill {
     public Map<Product, Integer> getProducts() {
         return products;
     }
+
+    public void generate(Writer){
+
+    }
+    public double getTotal(){
+
+    }
 }
