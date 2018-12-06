@@ -9,16 +9,16 @@ public class Main {
 
         Customer customer = new Customer("Juste Leblanc", "19 rue Germain Pilon, Paris");
 
-        Bill bill = new Bill(customer, new RelayDelivery(27));
+        Bill bill = new Bill(customer, new TakeAwayDelivery());
         bill.addProduct(cafe, 1);
         bill.addProduct(tv, 1);
         bill.addProduct(fridge, 1);
 
-        //bill.generate(new FileWriter("facture_leblanc"));
-        bill.generate(new Writer() {
+        bill.generate(new FileWriter("facture_leblanc"));
+        /**bill.generate(new Writer() {
             @Override
             public void start() {
-                
+
             }
 
             @Override
@@ -30,6 +30,6 @@ public class Main {
             public void stop() {
 
             }
-        });
+        });**/
     }
 }

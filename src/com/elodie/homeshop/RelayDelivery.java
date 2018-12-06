@@ -2,10 +2,11 @@ package com.elodie.homeshop;
 
 public class RelayDelivery implements Delivery {
     private int number;
-    private String info = "Livraison en point relais";
+    private String info;
 
     public RelayDelivery(int number) {
         this.number = number;
+        this.info="Livraison en point relais";
     }
 
     @Override

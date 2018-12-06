@@ -2,10 +2,11 @@ package com.elodie.homeshop;
 
 public class ExpressDelivery implements Delivery {
     private String city;
-    private String info = "Livraison Expresse";
+    private String info;
 
     public ExpressDelivery(String city){
         this.city=city;
+        this.info="Livraison Expresse";
     }
 
     @Override
